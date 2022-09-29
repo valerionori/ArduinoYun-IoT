@@ -1,5 +1,5 @@
 # ArduinoYun-IoT
-IoT project featuring Arduino Yùn for "Networking Technologies and Protocols"
+IoT project featuring Arduino Yùn for "Networking Technologies and Protocols" course at Univerisity of Modena and Reggio Emilia ("Enzo Ferrari" Eng. Dep.)
 
 
 ## Electronic Model
